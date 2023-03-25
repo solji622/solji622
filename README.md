@@ -3,7 +3,7 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solji0622)](https://solved.ac/solji0622/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solji622&layout=compact)
 
-#
+###
 
  ## 💭 About me
 #### ▷ LEE SOLJI (이솔지)
