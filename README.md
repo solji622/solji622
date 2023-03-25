@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=HELLO%20WORLD!&fontSize=70&animation=fadeIn)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=HELLO%20WORLD!&fontSize=70&animation=fadeIn)
 
 <div align="center">
 <a href="https://www.instagram.com/2solees/" target="_blank"><img src="https://img.shields.io/badge/2solees-43B02A?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -15,5 +15,4 @@
 </div> 
 
  ![solji622's github stats](https://github-readme-stats.vercel.app/api?username=solji622&show_icons=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solji622&layout=compact)
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solji0622)](https://solved.ac/solji0622/)
