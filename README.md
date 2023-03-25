@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=gradient&height=200&section=header&text=HELLO%20WORLD!&fontSize=50&animation=fadeIn&fontAlign=30)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=gradient&height=200&section=header&text=HELLO%20WORLD!&fontSize=50&animation=fadeIn&fontAlign=20)
  
  ![solji622's github stats](https://github-readme-stats.vercel.app/api?username=solji622&show_icons=true)
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solji0622)](https://solved.ac/solji0622/)
