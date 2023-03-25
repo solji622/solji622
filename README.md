@@ -1,11 +1,13 @@
- ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=81c147&height=200&section=header&text=HELLO%20WORLD!&fontSize=50&animation=fadeIn&fontAlign=25)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=000000&height=200&section=header&text=HELLO%20WORLD!&fontSize=50&animation=fadeIn&fontAlign=25)
  
- ![solji622's github stats](https://github-readme-stats.vercel.app/api?username=solji622&show_icons=true)
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solji0622)](https://solved.ac/solji0622/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solji622&layout=compact)
 
 #
 
  ### 💭 About me
+#### ▷ 성일정보고등학교 소프트웨어개발과 재학
+
 <a href="https://www.instagram.com/2solees/" target="_blank"><img src="https://img.shields.io/badge/2solees-43B02A?style=flat&logo=Instagram&logoColor=white"/></a>
 
  
