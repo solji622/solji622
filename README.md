@@ -5,14 +5,14 @@
 
 #
 
- ### 💭 About me
+ ## 💭 About me
 #### ▷ LEE SOLJI (이솔지)
 #### ▷ 성일정보고등학교 소프트웨어개발과 재학
 
 <a href="https://www.instagram.com/2solees/" target="_blank"><img src="https://img.shields.io/badge/2solees-43B02A?style=flat&logo=Instagram&logoColor=white"/></a>
 
  
- ### 💬 Language
+ ## 💬 Language
  
  <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -22,7 +22,7 @@
 </div>
 
 
-### 🗯 Tools
+## 🗯 Tools
 <div align="left">
 <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
