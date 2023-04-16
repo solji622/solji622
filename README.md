@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=000000&height=200&section=header&text=HELLO%20WORLD!&fontSize=80&animation=fadeIn)
 <div align=center>
-
-
  
  ## 💭 About me
  <h4>LEE SOLJI (이솔지)</h4>
