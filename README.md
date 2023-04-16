@@ -1,7 +1,8 @@
- ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=99FF66&height=180&section=header&text=HELLO%20WORLD!&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&height=180&section=header&text=HELLO%20WORLD!&fontSize=70&animation=fadeIn)
  
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solji0622)](https://solved.ac/solji0622/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=solji0622)](https://solved.ac/solji0622/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solji622&layout=compact)
+
 
 ###
 
@@ -27,5 +28,5 @@
 <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
  </div>
-
+</div>
 
