@@ -3,7 +3,7 @@
  
  ## 💭 About me
  <h4>LEE SOLJI (이솔지)</h4>
- <h4>성일정보고등학교 소프트웨어개발과 재학</h4>
+ <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
 
 <a href="https://www.instagram.com/2solees/" target="_blank"><img src="https://img.shields.io/badge/2solees-43B02A?style=flat&logo=Instagram&logoColor=white"/></a>
 
