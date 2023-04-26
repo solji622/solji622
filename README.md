@@ -1,6 +1,8 @@
+ <div align="center"> 
+ 
 <[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&size=60&pause=1000&color=000000&center=true&vCenter=true&repeat=true&&Align=100&width=700&height=150&lines=%F0%9F%8C%8F+Hello+World!+%F0%9F%8C%8F)](https://git.io/typing-svg)
  
- <div align="center"> 
+
  
  ## 💭 About me
  <h4>LEE SOLJI (이솔지)</h4>
