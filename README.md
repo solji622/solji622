@@ -9,7 +9,7 @@
  <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
 
 <a href="https://www.instagram.com/2solees/" target="_blank"><img src="https://img.shields.io/badge/2solees-43B02A?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.notion.so/d8a88e7b72764d07832a72fd2925cdda?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+<a href="https://adventurous-poinsettia-e3f.notion.site/d8a88e7b72764d07832a72fd2925cdda" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <a href="https://solji622.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F05A22?style=flat&logo=tistory&logoColor=white"/></a>
 
 <br/>
