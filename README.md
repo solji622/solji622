@@ -33,6 +33,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-intellij%20idea-000000?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
  </div>
 </div>
 
