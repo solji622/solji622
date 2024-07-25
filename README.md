@@ -10,15 +10,19 @@
 
 <br/>
 
+## 
+[![Solved.ac
+solji0622](http://mazassumnida.wtf/api/v2/generate_badge?boj=solji0622)](https://solved.ac/solji0622)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=solji0622&theme=warm)
 
- ## 💬 Language
+<br/>
+<br/>
+<br/>
+
+ ## Language
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solji622&layout=compact)
  <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,spring">
 </div>
 
 <br/>
@@ -26,11 +30,9 @@
 
 
 
-## 🗯 Tools
+## Tools
 <div align="center">
-<img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
- <img src="https://img.shields.io/badge/-intellij%20idea-000000?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+ <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,pycharm">
  </div>
 </div>
 
@@ -38,3 +40,5 @@
 </div>
 <br/>
 <br/>
+
+
