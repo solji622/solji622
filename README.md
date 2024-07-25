@@ -11,8 +11,7 @@
 <br/>
 
 ## 
-[![Solved.ac
-solji0622](http://mazassumnida.wtf/api/v2/generate_badge?boj=solji0622)](https://solved.ac/solji0622)
+![solji's GitHub stats](https://github-readme-stats.vercel.app/api?username=solji622&hide=contribs,prs)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=solji0622&theme=warm)
 
 <br/>
