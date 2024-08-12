@@ -10,7 +10,10 @@
 
 <br/>
 
-## 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/solji622?pet-id=1" width="1000" height="200"/>
+</a>
+
 ![solji's GitHub stats](https://github-readme-stats.vercel.app/api?username=solji622&hide=contribs,prs)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=solji0622&theme=warm)
 
