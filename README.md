@@ -1,6 +1,6 @@
  <div align="center"> 
   
-![My card name](https://cardivo-beta.vercel.app/api?name=LEE%20SOLJI&description=Hello,%20I%27m%20Student%20studying%20development.%20&image=https://avatars.githubusercontent.com/u/126930370&pattern=hideout&colorPattern=%23eaeaea&opacity=0.5&instagram=2solees&github=solji622)
+![My card name](https://cardivo-beta.vercel.app/api?name=LEE%20SOLJI&description=Hello,%20I%27m%20Student%20studying%20development.%20&image=https://avatars.githubusercontent.com/u/126930370&colorPattern=%23eaeaea&opacity=0.5&instagram=2solees&github=solji622)
 
  
 <h4>성일정보고등학교 소프트웨어개발과 재학중</h4>
