@@ -13,7 +13,7 @@
 <img src="https://ghchart.rshah.org/6482AD/solji622" />
 
 ![solji's GitHub stats](https://github-readme-stats.vercel.app/api?username=solji622&hide=contribs,prs)
-[![solji0622](http://mazassumnida.wtf/api/generate_badge?boj=solji0622)](https://solved.ac/solji0622)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=solji0622&theme=cold)
 
 <br/>
 <br/>
