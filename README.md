@@ -10,7 +10,6 @@
 
 <br/>
 
-<img src="https://ghchart.rshah.org/6482AD/solji622" />
 
 ![solji's GitHub stats](https://github-readme-stats.vercel.app/api?username=solji622&hide=contribs,prs)
 
