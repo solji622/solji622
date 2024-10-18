@@ -11,8 +11,6 @@
 <br/>
 
 
-![solji's GitHub stats](https://github-readme-stats.vercel.app/api?username=solji622&hide=contribs,prs)
-
 <br/>
 <br/>
 <br/>
