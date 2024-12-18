@@ -7,3 +7,7 @@
 
 <a href="https://solji0622.notion.site/new-1cd5dae16b8e4e72a1bc3ae4344f2147?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <a href="https://velog.io/@solji0622" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
+
+&nbsp;
+&nbsp;
+&nbsp;
