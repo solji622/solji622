@@ -9,32 +9,3 @@
 <a href="https://velog.io/@solji0622" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
 
 <br/>
-
-
-<br/>
-<br/>
-<br/>
-
- ## Language
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solji622&layout=compact)
- <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,spring">
-</div>
-
-<br/>
-<br/>
-
-
-
-## Tools
-<div align="center">
- <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,pycharm">
- </div>
-</div>
-
-</div>
-</div>
-<br/>
-<br/>
-
-
